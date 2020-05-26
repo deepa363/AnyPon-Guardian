@@ -1,6 +1,6 @@
 # **AnyPon-Guardian Full Versions**
 -------------
-![alt-текст](https://images-na.ssl-images-amazon.com/images/I/8163qVOTUPL._AC_SY445_.jpg "Luminar4")
+![alt-текст](https://prnt.sc/soee70 "AnyPonGuardian")
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
