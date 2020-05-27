@@ -10,8 +10,6 @@
 * RAM - 2 GB or more
 * Disk space - 530 MB free space
 
-![alt-текст](https://github.com/gilbert9938/111/blob/master/photo_2020-05-27_02-14-25.jpg "AnyPonGuardian")
-
 ##  AnyPonGuard's The most convenient antivirus 
 We create simple solutions to complex problems.
 
