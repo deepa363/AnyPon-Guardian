@@ -6,7 +6,7 @@
 #### Windows Tech Specs
 * Graphics - Open GL 3.3 or later compatible
 * Processor - Intel Core i3 or better
-* OS - Windows 7 or higher (only x64-bit OS)
+* OS - Windows 7 or higher (x32 or x64-bit OS)
 * RAM - 2 GB or more
 * Disk space - 530 MB free space
 
