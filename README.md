@@ -4,7 +4,7 @@ For download the ad version, you need to:
 1) Click the Clone or download button
 2) Click on Download ZIP
 
-![image alt](https://github.com/gilbert9938/ddd)
+![image alt](https://github.com/gilbert9938/ddd/blob/master/image.png)
 
 Official website: https://official.anyponguard.xyz/
 -------------
